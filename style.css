@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(189, 119, 33);
+}
+h1{
+    color: rgb(183, 48, 41);
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: blueviolet;
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
